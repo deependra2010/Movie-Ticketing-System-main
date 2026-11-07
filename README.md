@@ -13,7 +13,7 @@ Payment Simulation: Integrated flow for handling successful bookings and digital
 📂 Project Architecture: The project follows a modular structure to ensure scalability and ease of maintenance. You can view the logic flow and folder structure here:🔗 System Flowchart
 
 ⚙️ Getting Started
-Clone the repo: https://github.com/bhavya654/LEO_Shows-Ticketing-System.git
+Clone the repo: https://github.com/deependra2010/Movie-Ticketing-System-main.git
 Install dependencies:
 For the backend: cd backend && npm install
 For the frontend: cd frontend && npm install
